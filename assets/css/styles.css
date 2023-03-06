@@ -112,9 +112,9 @@ body.scale-cv {
   max-width: 595px;
 }
 
-/* -----> ancho del (borde) */
+/* -----> ancho del (borde)  0.81rem? */
 .scale-cv .section {
-  padding: 1.26rem 0 0.8rem;
+  padding: 1.25rem 0 0.81rem;
 }
 
 .scale-cv .section-title {
@@ -230,7 +230,7 @@ img {
 
 /*========== CLASS CSS ==========*/
 
-/* ancho de los (bordes) */
+/* ancho de los (bordes) Original -> 1.5rem */
 .section {
   padding: 1.5rem 0;
 }
@@ -351,9 +351,9 @@ img {
   position: relative;
 }
 
-/* ----> ancho del (borde) img */
+/* --> ancho del (borde) img -> Original 3rem*/
 .home__container {
-  gap: 1rem;
+  gap: 3rem;
 }
 
 .home__data {
@@ -448,7 +448,7 @@ img {
 
 .education__time,
 .experience__time {
-  padding-right: 2rem;
+  padding-right: 1rem;
 }
 
 /* -> El circulo redondo */
